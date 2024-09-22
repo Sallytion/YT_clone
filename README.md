@@ -26,17 +26,14 @@ This project involved enhancing a YouTube-inspired web application with three pr
 
 ## Setup Instructions
 ### Frontend
-The frontend is hosted on Vercel: [YouTube Clone Frontend](https://you-tube-clone-frontend-xi.vercel.app/)
-   
-### Backend
-The backend is hosted on Render: [YouTube Clone Backend](https://youtubeclone-nullclass.onrender.com/)
+The frontend is hosted on Vercel: [YouTube Clone Frontend](https://yt-clonerepo-vx4p.vercel.app/)
 
 **Note:** If the frontend does not load correctly, please reload the Render site as it may be required due to free tier limitations.
 
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sarathchowdary1/YOUTUBECLONE-NULLCLASS.git
+   git clone https://github.com/Sallytion/YT_clone.git
    cd YouTubeClone-NullClass
    ```
 
